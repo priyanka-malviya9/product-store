@@ -1,0 +1,131 @@
+/* navbar.php */
+
+.navbar-brand
+{
+    color: aliceblue;
+}
+.navbar-brand:hover
+{
+    color: aliceblue;
+}
+
+.navLink li
+{
+   /* background-color:  rgb(225, 233, 238); */
+    padding-left: 15px;
+}
+.navLink li a
+{
+    color: aliceblue;
+    font-size: 13px;
+    font-weight:500;
+}
+.navLink li a:hover
+{
+       display:inline-block;
+       background-color:rgb(95, 114, 129) ;
+       color: aliceblue;
+}
+
+#navbar-search-input
+{
+    margin-left: 15px;
+    background-color:rgb(162, 172, 180) ;
+    border: none;
+}
+
+#searchBtn
+{
+    background-color:white;
+}
+ /* ::-ms-input-placeholder
+{
+    color: aliceblue;
+font-size: 12px;
+} */
+.navbar-custom-menu{
+    margin-left: 150px;
+    padding: 10px 0px;
+}
+
+.navbar-custom-menu ul li
+{
+    display: inline;
+    padding-left: 20px;
+    font-size: 13px;
+    box-sizing: border-box;
+}
+.navbar-custom-menu ul li a
+{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 400;
+}
+.navbar-custom-menu ul li a:hover
+{
+    display: block;
+    background-color: rgb(162, 172, 180);
+}
+.carousel-item img
+{
+    height: 400px;
+}
+.main_footer
+{
+    background-color:rgb(247, 250, 252) ;
+    padding-bottom: 15px;
+    /* color: rgb(87, 10, 10); */
+}
+.product-row
+{
+    margin-top: 20px;
+}
+.product_heading
+{
+    padding-top: 20px;
+    font-weight: 400;
+    /* padding-bottom: 20px; */
+}
+.main-box
+{
+    box-sizing: border-box;
+}
+.box-solid
+{
+    background-color:rgb(255, 255, 255);
+    border-radius: 3px;
+    padding: 2px;
+}
+.box-solid:hover
+{
+    box-shadow: 2px 2px 12px 9px rgb(214, 213, 213)
+
+}
+
+.prod-body
+{
+    border: 1px solid rgb(209, 208, 208);
+margin:7px;
+    border-radius: 4px;
+
+}
+.main-box p {
+    padding: 5px 8px;
+    color: rgb(48, 151, 192);
+}
+.box-footer{
+    border-top: 1px solid  rgb(238, 238, 238);
+    padding:10px 8px;
+    
+    font-size: 13px;
+    color: rgb(58, 55, 55);
+}
+/* --------------------      login      ------------------- */
+.login-box-body
+{
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+}
+
+
+/* #7187ad */
